@@ -43,10 +43,5 @@ gradativamente à medida que os navios forem sendo atingidos.
 
 Além de atender às demandas do projeto, optamos por incluir algumas funcionalidades adicionais, tais como:
 
-<<<<<<< HEAD
-* Antes de iniciar a partida propriamente dita, perguntar ao usuário se a partida em questão será uma partida normal ou uma partida de testes. Caso opte pela partida de testes, a localização dos navios será mostrada desde o começo
-=======
-* Antes de iniciar a partida propriamente dita, perguntar ao usuário se a partidar em questão será uma partida normal ou uma partida de testes. Caso opte pela partida de testes, a localização dos navios será mostrada desde o começo
->>>>>>> b88d818623a3fafec2821a057f17d1bf3067fbd7
 * Incluir uma funcionalidade onde, ao final de cada turno, questione se o usuário deseja se render
 * Incluir uma funcionalidade onde, ao final de cada um dos turnos, questione se o usuário em questão deseja ou não visualizar a localização dos navios
